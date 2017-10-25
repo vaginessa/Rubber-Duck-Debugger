@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="#000000"
-    tools:context="rubberduckdebugger.karan.org.rubberduckdebugger.MainActivity">
+    tools:context="org.karan.rubberduckdebugger.MainActivity">
 
     <ImageView
         android:id="@+id/imageView"
